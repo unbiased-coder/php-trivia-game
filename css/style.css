@@ -1,0 +1,25 @@
+h2 {
+    font-family: w3-cursive;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.cyan-button {
+    font-family: w3-cursive;
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: larger;
+    transition-duration: 0.4s;
+}
+
+.cyan-button:hover {
+    color: darkslategray;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.title-header {
+    font-weight: bold;
+    font-size: larger;
+    color: darkslategray;
+    font-family: w3-cursive;
+}
